@@ -1,51 +1,53 @@
-# Browser for LoTW
+# Browser for QRZ for Google Sheets™
 
-**Status:** 🟢 Production
-**Current version:** `2026.08.03-1`
+**Status:** 🔵 Marketplace preparation in progress — version `2026.08.10-1`
 
-![Browser for LoTW feature graphic showing the Android client and Browse, Search, Sort, and Filter features](docs/feature-graphic.png)
+![Browser for QRZ Google Sheets add-on banner](docs/feature-graphic.png)
 
-## Google Play
+## Google Workspace Marketplace
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=engineering.champagne.browserforlotw)
+Browser for QRZ is being prepared for Google Workspace Marketplace review. It
+is not yet available for installation from Google Workspace Marketplace.
 
 ## Overview
 
-Browser for LoTW is an Android application for browsing, searching, sorting, and filtering ARRL Logbook of The World (LoTW) records.
+Browser for QRZ is a read-only Google Sheets™ add-on for browsing QRZ Logbook
+QSO and QSL data. Download a selected date range into a spreadsheet, then use
+familiar Google Sheets sorting, filtering, search, and charting tools locally.
 
-Available now on Google Play.
+Your QRZ callsign and API key are used only for a live QRZ request and are not
+retained by the add-on. Included demo contacts let operators explore the
+add-on without QRZ credentials.
 
 ## Features
 
-- Download LoTW records directly from ARRL
-- Browse QSOs and QSLs
-- Advanced sorting and filtering
-- Regular-expression filtering
-- Detailed QSO and QSL views
-- Offline browsing and local storage
-- Demo mode
-- Language selection: English, French, German, Portuguese, and Spanish
+- Download QRZ Logbook QSO and QSL data into Google Sheets™
+- Browse, sort, filter, search, and chart downloaded contacts
+- Inspect complete QSO and QSL ADIF fields
+- Check a downloaded date range for QRZ Logbook updates
+- Use included demo data without QRZ credentials
 
 ## Screenshots
 
 <p>
-  <img src="docs/screenshots/records-list.png" alt="Browser for LoTW records list showing QSO and QSL information" width="180">
-  <img src="docs/screenshots/sort-and-filter.png" alt="Browser for LoTW sort and filter controls" width="180">
-  <img src="docs/screenshots/qso-details.png" alt="Browser for LoTW expanded QSO detail view" width="180">
-  <img src="docs/screenshots/download-records.png" alt="Browser for LoTW screen for fetching and managing downloaded records" width="180">
-  <img src="docs/screenshots/about-and-support.png" alt="Browser for LoTW About screen with support and privacy options" width="180">
+  <img src="docs/screenshots/initial-import.png" alt="Browser for QRZ sidebar in a new Google Sheet" width="480">
+  <img src="docs/screenshots/records-list.png" alt="Browser for QRZ QSO data loaded into Google Sheets" width="480">
+  <img src="docs/screenshots/qso-details.png" alt="Browser for QRZ all-fields QSO detail sheet" width="480">
+  <img src="docs/screenshots/extensions-menu.png" alt="Google Sheets Extensions menu showing Browser for QRZ" width="480">
 </p>
 
 ## Repository Purpose
 
-This public repository is maintained for Browser for LoTW documentation, release notes, and issue tracking. It does not contain the application source code.
+This public repository is maintained for Browser for QRZ for Google Sheets™
+documentation, release notes, and issue tracking. It does not contain the
+add-on source code.
 
 ## Documentation
 
 Additional documentation is available in the [docs](docs/) directory.
 
 - [Release Notes](docs/release-notes.md)
-- [Product Page](https://champagne.engineering/browser-for-lotw)
+- [Product Page](https://champagne.engineering/browser-for-qrz-sheets)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
 
@@ -57,8 +59,13 @@ Email: support@champagne.engineering
 
 ## Copyright and Disclaimer
 
-© 2026 Champagne Engineering, LLC. All rights reserved.
+© 2026 Champagne Engineering, LLC.
 
-Browser for LoTW is an independent application developed under the CE Widgets brand by Champagne Engineering, LLC. It is not affiliated with, endorsed by, or sponsored by the American Radio Relay League (ARRL).
+Browser for QRZ is an independent application developed under the CE Widgets
+brand by Champagne Engineering, LLC. It is not affiliated with, endorsed by,
+or sponsored by QRZ.com.
 
-“LoTW” and “Logbook of The World” are trademarks of The American Radio Relay League, Inc., used solely to describe compatibility with the LoTW service.
+“QRZ” and “QRZ.COM” are trademarks of QRZ LLC, used solely to describe
+compatibility with the QRZ Logbook service.
+
+Google Sheets™ is a trademark of Google LLC.
