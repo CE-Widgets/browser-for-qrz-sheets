@@ -1,13 +1,14 @@
 # Browser for QRZ for Google Sheets™
 
-**Status:** 🔵 Marketplace preparation in progress — version `2026.08.10-1`
+**Status:** 🟢 Production — version `2026.08.10-1`
 
 ![Browser for QRZ Google Sheets add-on banner](docs/feature-graphic.png)
 
 ## Google Workspace Marketplace
 
-Browser for QRZ is being prepared for Google Workspace Marketplace review. It
-is not yet available for installation from Google Workspace Marketplace.
+Available now on Google Workspace Marketplace.
+
+[Get it on Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339)
 
 ## Overview
 
@@ -47,6 +48,7 @@ add-on source code.
 Additional documentation is available in the [docs](docs/) directory.
 
 - [Release Notes](docs/release-notes.md)
+- [Google Workspace Marketplace](https://workspace.google.com/marketplace/app/browser_for_qrz/264845665339)
 - [Product Page](https://champagne.engineering/browser-for-qrz-sheets)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
