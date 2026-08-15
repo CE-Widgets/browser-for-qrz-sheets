@@ -1,5 +1,11 @@
 # Release Notes
 
+## Version 2026.08.14-1 — Production update
+
+- Added localized UI support for English, French, German, Italian, Portuguese,
+  and Spanish.
+- Linked QRZ callsigns to their QRZ profile pages.
+
 ## Version 2026.08.10-1 — Marketplace preparation in progress
 
 Initial planned public release of Browser for QRZ for Google Sheets™.

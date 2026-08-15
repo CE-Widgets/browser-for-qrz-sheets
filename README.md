@@ -1,6 +1,6 @@
 # Browser for QRZ for Google Sheets™
 
-**Status:** 🟢 Production — version `2026.08.10-1`
+**Status:** 🟢 Production — version `2026.08.14-1`
 
 ![Browser for QRZ Google Sheets add-on banner](docs/feature-graphic.png)
 
@@ -27,6 +27,7 @@ add-on without QRZ credentials.
 - Inspect complete QSO and QSL ADIF fields
 - Check a downloaded date range for QRZ Logbook updates
 - Use included demo data without QRZ credentials
+- Language selection: English, French, German, Italian, Portuguese, and Spanish
 
 ## Screenshots
 
