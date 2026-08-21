@@ -1,5 +1,10 @@
 # Release Notes
 
+## Version 2026.08.21-2 — Production update
+
+- Completed the supported locale catalogs and localized the loaded-data
+  summary.
+
 ## Version 2026.08.21-1 — Production update
 
 - Added proprietary copyright and official-distribution notices.

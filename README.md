@@ -1,6 +1,6 @@
 # Browser for QRZ for Google Sheets™
 
-**Status:** 🟢 Production — version `2026.08.21-1`
+**Status:** 🟢 Production — version `2026.08.21-2`
 
 ![Browser for QRZ Google Sheets add-on banner](docs/feature-graphic.png)
 
