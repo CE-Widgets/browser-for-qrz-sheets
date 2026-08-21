@@ -1,6 +1,6 @@
 # Browser for QRZ for Google Sheets™
 
-**Status:** 🟢 Production — version `2026.08.14-1`
+**Status:** 🟢 Production — version `2026.08.21-1`
 
 ![Browser for QRZ Google Sheets add-on banner](docs/feature-graphic.png)
 
@@ -62,7 +62,9 @@ Email: support@champagne.engineering
 
 ## Copyright and Disclaimer
 
-© 2026 Champagne Engineering, LLC.
+© 2026 Champagne Engineering, LLC. All rights reserved.
+
+Unauthorized copying, modification, or redistribution is prohibited. Official distributions are available only through Champagne Engineering-authorized channels.
 
 Browser for QRZ is an independent application developed under the CE Widgets
 brand by Champagne Engineering, LLC. It is not affiliated with, endorsed by,

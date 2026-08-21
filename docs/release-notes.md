@@ -1,5 +1,9 @@
 # Release Notes
 
+## Version 2026.08.21-1 — Production update
+
+- Added proprietary copyright and official-distribution notices.
+
 ## Version 2026.08.14-1 — Production update
 
 - Added localized UI support for English, French, German, Italian, Portuguese,
